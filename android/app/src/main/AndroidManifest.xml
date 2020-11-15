@@ -10,7 +10,7 @@
         android:label="alpha_green_smart_move"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBDUxMIRWHxa7pFustsrJl44l4eAtS4vxs"/>
+            android:value="XXXXXXXXXXXXXXXXXXX"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
